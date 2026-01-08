@@ -1,0 +1,1 @@
+string fulleName = "John Doe";
