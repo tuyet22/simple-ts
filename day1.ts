@@ -1,1 +1,1 @@
-string fulleName = "John Doe";
+let fullName:string='Tuyet';
